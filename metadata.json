@@ -1,0 +1,5 @@
+{
+  "name": "TeleDiş - Mobil Diş Hekimliği",
+  "description": "Diş hekimleri için hasta takip, dental değerlendirme ve tele-konsültasyon platformu.",
+  "requestFramePermissions": ["camera"]
+}
