@@ -2,7 +2,7 @@
 
 **TeleDiş**, diş hekimlerinin günlük hasta trafiğini, randevularını ve tedavi süreçlerini modern bir arayüzle yönetmelerini sağlayan **React Native + Expo** tabanlı bir mobil uygulamadır.
 
-## 🎨 Tasarım İlhamı
+## 🎨 Tasarım
 Bu proje, bir Pinterest mood board'undan ilham alınarak geliştirilmiştir. Pinterest'in ikonik minimalist yapısı, kart tasarımları ve kullanıcı dostu navigasyon dili; sağlık sektörünün gerektirdiği temizlik ve güven hissiyle birleştirilmiştir.
 
 ## 🚀 Özellikler
